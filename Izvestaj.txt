@@ -1,0 +1,48 @@
+Prva nedelja: 06.12.2017.
+
+Nista posebno nije uradjeno, dodat je Makefile, main.c u kom su napravljene zidine gde kockica treba da se krece.
+
+Druga nedelja: 18.12.2017.
+
+Dodate nove funkcije koje sluze za iscrtavanje objekta.
+Bitna promena je nasumicno iscrtavanje sledeceg objekta, i zidovi od koje se kockica odbija.
+Logika i dalje nije dobra treba bolje uraditi tj. uvesti strukturu neku i ne koristiti konstante nego sve uraditi u opstim brojevima.
+Treba dodati lepsi prelaz sa objekta na objekat i slucaj kada kockica promasi sledeci objekat tj. pad u ambis.
+
+Treca nedelja: 03.01.2018.
+
+Krucijalna promena, ne koristi se vise niz za cuvanje koordinata centra, sada se koristi struktura tacka,
+promenjena je logika potpuno, sve se racuna u opstim brojevima sto do sada nije bio slucaj kod nekih objekata gde su postojali "magicni brojevi".
+
+Uradjen pad kocke u ambis.
+
+Kamera prati objekte i zaustavlja se na odredjenoj udaljenosti.
+Dodata svetlost i ostali zidici od kojih se odbija kockica.
+U sustini je 90% zavrseno sve, treba dodati neke modove i otezati malo igru.
+
+Cetvrta nedelja: 17.01.2018.
+
+Reseni neki sitni bagovi.
+Dodato uputstvo za igru, slika, video.
+Kod lepse uredjen i komentarisan.
+I dalje treba dodati modove za igru da se oteza.
+Prijavljeno pregledanje za JAN1.
+
+Peta nedelja:  02.02.2018.
+
+Promenjeno u odnosu na pregledanje rada u JAN1:
+rasporedjeno u vise fajlova
+poboljsan prelazak sa jednog objekta na drugi
+stavio sam if u kom se gleda u kom smeru ce kockica da se krece
+pre naredbe gde se ta kockica pomera i onda se prvo odredi pravi smer kockice i tek onda se ona pomera.
+Do sada je taj if bio posle toga pa je kockica taj prvi prelazak mogla da ide u pogresnom smeru ako je tako sacuvano u proslom pomeranju kockice.
+dodato ubrzanje kockice posle nekoliko uspesnih prelaska
+dodato menjanje boje svih objekata nasumicnim bojama da bi se dodatno otezalo igranje kada brzina kocke predje 0.5
+dodate slike po nedeljama kako je napredovao projekat.
+
+Sesta nedelja: 04.02.2018.
+Dodata pauza kada se klikne na p ili P
+
+Prijavljeno pregledanje za JAN2.
+Sedma nedelja: 20.02.2018.
+Dodato ispisivanje rezultata dok se igra
