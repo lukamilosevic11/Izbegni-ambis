@@ -16,5 +16,5 @@ Potrebno je imati instalirano freeglut.
 | `space` | Promena kretanja kockice|
 | `ESC` | Izlaz |
 
-![slika projekta](https://github.com/MATF-RG17/RG004-izbegni-ambis/blob/master/screenshot.png)
-[![video projekta](https://github.com/MATF-RG17/RG004-izbegni-ambis/blob/master/video.png)](https://youtu.be/uzU-2z8X2z8)
+![slika projekta](https://github.com/lukamilosevic11/Izbegni-ambis/blob/master/screenshot.png)
+[![video projekta](https://github.com/lukamilosevic11/Izbegni-ambis/blob/master/video.png)](https://youtu.be/uzU-2z8X2z8)
